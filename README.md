@@ -1,0 +1,2 @@
+# TrendyolAutomationProject
+Trendyol Otomasyon uygulaması
