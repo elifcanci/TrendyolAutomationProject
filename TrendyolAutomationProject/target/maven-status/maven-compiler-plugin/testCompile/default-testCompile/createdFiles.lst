@@ -1,0 +1,10 @@
+tests\SearchTest.class
+tests\CartTest.class
+pages\ProductPage.class
+tests\ProductSelectionTest.class
+pages\CartPage.class
+pages\HomePage.class
+stepDefinitions\CartSteps.class
+stepDefinitions\SearchSteps.class
+stepDefinitions\ProductSelectionSteps.class
+runner\TestRunner.class
